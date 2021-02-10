@@ -43,7 +43,7 @@ export default () => {
 			<MainLayout>
 				<HeroBanner />
 				<SideTab
-					cta="We're&nbsp;Hiring"
+					cta="We're&nbsp;Hiring, yuk gabung coy!"
 					ctaUrl="/careers"
 					image="/images/components/pj-thumb.jpg"
 					innerCta="See Openings"
